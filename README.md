@@ -1,5 +1,5 @@
 <h1>Day 10 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
-<p>For the Day 10 challenge, I created a simple Calculation that does arithmetic operations of numbers. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
+<p>For the Day 10 challenge, I created a simple calculations that does arithmetic operations of numbers. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
 <ul>
   <li>functions</li>
   <li>recursion</li>
